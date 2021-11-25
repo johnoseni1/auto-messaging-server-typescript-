@@ -1,4 +1,4 @@
-# Auto messaging Server
+# Auto messaging Server API(TS)
 
 
 ## Installation
