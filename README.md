@@ -38,7 +38,8 @@ $ npm run test:cov
 ## Stay in touch
 
 - Author - [John Oseni](https://johnoseni.com)
-<!-- - Website - [https://nestjs.com](https://nestjs.com/) -->
+
 - Twitter - [@johnoseni1](https://twitter.com/johnoseni1)
 
+- Linkedin - [JOHN OSENI](https://www.linkedin.com/in/john-oseni-4b8b001b0/)
 
